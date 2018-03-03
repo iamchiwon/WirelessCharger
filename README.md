@@ -19,7 +19,7 @@ Fusion360 으로 모델링하고 3D 프린터로 출력하여 거치대와, 충�
 
 ##### 충전모듈 커버
 
-모델링 파일: [cover_modeling.f3d](modeling/cover_modeling.f3d)
+모델링 파일: [cover.iges](modeling/cover.iges)
 
 ![Modeling](images/cover_modeling.png)
 
